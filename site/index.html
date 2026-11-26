@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <meta name="description" content="AGF 2026 참가사 부스를 한눈에 보는 비공식 팬 안내 사이트">
+  <meta name="robots" content="noindex, nofollow, noarchive">
+  <title>AGF 2026 부스 안내 (비공식)</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 32 32%27%3E%3Crect width=%2732%27 height=%2732%27 rx=%277%27 fill=%27%230b7a6e%27/%3E%3Cpath d=%27M7 9h8v6H7zM17 9h8v6h-8zM7 17h8v6H7zM17 17h8v6h-8z%27 fill=%27%23fff%27/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="page">
+    <header class="site-head">
+      <div class="head-row">
+        <h1 class="brand">AGF 2026 부스 안내 <span class="badge">비공식</span></h1>
+        <a id="map-link" class="map-link" href="https://www.agfkorea.com/event?idx=3" target="_blank" rel="noopener">공식 배치도 <span aria-hidden="true">↗</span><span class="sr-only">(새 탭)</span></a>
+      </div>
+      <p class="event-meta">12.04(금)~12.06(일) · KINTEX 제1전시장</p>
+    </header>
+
+    <div class="tools" role="search">
+      <label class="search-box">
+        <span class="sr-only">참가사 찾기</span>
+        <input id="search" type="search" autocomplete="off" spellcheck="false" placeholder="회사·부스·홍보 문구·X 계정으로 찾기">
+      </label>
+      <div class="chips" id="chips" role="group" aria-label="분류">
+        <button type="button" class="chip" data-category="all" aria-pressed="true">전체 <span class="chip-n"></span></button>
+        <button type="button" class="chip" data-category="6" aria-pressed="false">Sponsor <span class="chip-n"></span></button>
+        <button type="button" class="chip" data-category="1" aria-pressed="false">Animation <span class="chip-n"></span></button>
+        <button type="button" class="chip" data-category="2" aria-pressed="false">Game <span class="chip-n"></span></button>
+        <button type="button" class="chip" data-category="3" aria-pressed="false">MD/Figure <span class="chip-n"></span></button>
+        <button type="button" class="chip" data-category="4" aria-pressed="false">Publishing <span class="chip-n"></span></button>
+        <button type="button" class="chip" data-category="7" aria-pressed="false">Virtual <span class="chip-n"></span></button>
+        <button type="button" class="chip" data-category="5" aria-pressed="false">OTHERS <span class="chip-n"></span></button>
+      </div>
+      <p id="count" class="count" aria-live="polite">불러오는 중…</p>
+    </div>
+
+    <main>
+      <ul id="grid" class="grid" aria-label="참가사 목록"></ul>
+      <p id="empty" class="empty" hidden>조건에 맞는 참가사가 없습니다. 검색어나 분류를 바꿔 보세요.</p>
+      <p id="load-error" class="empty" hidden>참가사 자료를 불러오지 못했습니다. 잠시 뒤 다시 열어 주세요.</p>
+    </main>
+
+    <footer id="footer" class="site-foot">
+      <p><strong>비공식 팬 사이트입니다. AGF 2026 조직위원회나 참가사가 만든 사이트가 아닙니다.</strong></p>
+      <p>자료 출처: <a id="source-link" href="https://www.agfkorea.com/information" target="_blank" rel="noopener">agfkorea.com 참가사 목록</a> (<span id="generated-at">-</span> 기준). 홍보 그림은 공식 주소에서 바로 불러옵니다.</p>
+      <p>게시글은 X의 퍼가기 기능이 그립니다. 패널을 열면 X가 방문 정보를 받을 수 있습니다.</p>
+      <p>정확한 일정과 위치는 <a href="https://www.agfkorea.com/" target="_blank" rel="noopener">공식 사이트</a>에서 확인해 주세요.</p>
+    </footer>
+  </div>
+
+  <section id="panel" class="panel" role="dialog" aria-modal="true" aria-labelledby="panel-title" hidden>
+    <div class="sheet" tabindex="-1">
+      <header class="sheet-head">
+        <div class="sheet-title">
+          <h2 id="panel-title"></h2>
+          <div id="panel-cats" class="cat-list"></div>
+        </div>
+        <button type="button" id="panel-close" class="close" aria-label="닫기">✕</button>
+      </header>
+      <div id="booth-tabs" class="booth-tabs" role="tablist" aria-label="부스 고르기" hidden></div>
+      <div id="booth" class="booth" role="tabpanel">
+        <div class="booth-media" id="booth-media"></div>
+        <h3 id="booth-name" class="booth-name" hidden></h3>
+        <ul id="booth-facts" class="facts"></ul>
+        <p id="booth-copy" class="copy"></p>
+        <section id="x-area" class="x-area" hidden>
+          <h3 class="x-head">X 게시글</h3>
+          <div id="gifts-wrap" class="gifts-wrap" hidden>
+            <h4 class="gifts-head"><span aria-hidden="true">📌</span> 방문·참여 특전</h4>
+            <div id="gifts" class="gifts"></div>
+          </div>
+          <div id="picks-wrap">
+            <h4>고른 AGF 글</h4>
+            <div id="picks" class="picks"></div>
+          </div>
+          <div id="timeline-wrap">
+            <h4>계정 최신 글</h4>
+            <div class="timeline-actions">
+              <button type="button" id="timeline-load" class="timeline-load" aria-disabled="false">최신 글 불러오기</button>
+              <a id="timeline-x-link" class="timeline-x-link" href="https://x.com/" target="_blank" rel="noopener">X에서 보기</a>
+            </div>
+            <div id="timeline-fallback" class="timeline-fallback" role="status" hidden>
+              <p>지금은 X가 최신 글을 보내 주지 않습니다.</p>
+            </div>
+            <div id="timeline" class="timeline" aria-busy="false"></div>
+          </div>
+        </section>
+      </div>
+    </div>
+  </section>
+
+  <script src="app.js" defer></script>
+</body>
+</html>
