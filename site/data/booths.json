@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T16:22:03.585Z",
+  "generatedAt": "2026-11-27T01:17:28.459Z",
   "source": "https://www.agfkorea.com/information",
   "mapUrl": "https://www.agfkorea.com/event?idx=3",
   "companies": [
@@ -391,7 +391,12 @@
           "copy": "웹툰에서 시작된 이야기가 애니메이션, 게임, MD로 이어집니다.네이버웹툰이 펼쳐갈 다음 세계를 기대해주세요!",
           "homepage": "https://www.instagram.com/webtoonfriends",
           "code": "B01",
-          "x": null
+          "x": {
+            "handle": "naver_webtoon",
+            "picks": [],
+            "embeds": [],
+            "gifts": []
+          }
         }
       ]
     },
@@ -577,15 +582,39 @@
             "handle": "daewonmedia_tv",
             "picks": [
               "https://x.com/daewonmedia_tv/status/2125506904814416322",
-              "https://x.com/daewonmedia_tv/status/2125491651561091549",
-              "https://x.com/daewonmedia_tv/status/2125494359449829847"
+              "https://x.com/daewonmedia_tv/status/2125491651561091549"
             ],
             "embeds": [
               "<blockquote class=\"twitter-tweet\" data-lang=\"ko\" data-dnt=\"true\"><p lang=\"ko\" dir=\"ltr\">✨ONE, IDENTITY. EXPANDING EXPERIENCES!<br>대원미디어 부스 <a href=\"https://x.com/hashtag/AGF2026?src=hash&amp;ref_src=twsrc%5Etfw\">#AGF2026</a> 티켓이벤트<br><br>하나의 아이덴티티로 모여,<br>더욱 다채로운 경험을 만들어 가는 순간!<br><br>2025년, 함께했던 뜨거운 열기와 특별한 기억.<br>그리고 2026년, 그 이상의 새로운 경험이 펼쳐집니다.<br><br>하나로 연결되고, 더 넓게 확장되는 즐거움!… <a href=\"https://t.co/vID9ksdOZY\">pic.twitter.com/vID9ksdOZY</a></p>&mdash; 대원미디어 Official (@daewonmedia_tv) <a href=\"https://x.com/daewonmedia_tv/status/2125506904814416322?ref_src=twsrc%5Etfw\">2026년 11월 25일</a></blockquote>",
-              "<blockquote class=\"twitter-tweet\" data-lang=\"ko\" data-dnt=\"true\"><p lang=\"ko\" dir=\"ltr\">AGF 2026 코스플레이어 이벤트 안내📢<br><br>참여 코스플레이어 일부가 변경되어 새로운 라인업을 안내드립니다. 12/5(토) ‘블루 아카이브’ 리오 역으로는 요나님이 함께합니다!<br><br>12/4(금)~12/5(토) 이틀 동안 AGF 2026(<a href=\"https://x.com/AGF_Korea?ref_src=twsrc%5Etfw\">@AGF_Korea</a>) 메인 무대와 니벨아레나 부스에서 코스어들과 런웨이부터 촬영회까지… <a href=\"https://t.co/ubOI2zRBkF\">pic.twitter.com/ubOI2zRBkF</a></p>&mdash; 대원미디어 Official (@daewonmedia_tv) <a href=\"https://x.com/daewonmedia_tv/status/2125491651561091549?ref_src=twsrc%5Etfw\">2026년 11월 25일</a></blockquote>",
-              "<blockquote class=\"twitter-tweet\" data-lang=\"ko\" data-dnt=\"true\"><p lang=\"ko\" dir=\"ltr\">AGF 2026 이벤트 안내📢<br><br>12/6(일) AGF 2026(<a href=\"https://x.com/AGF_Korea?ref_src=twsrc%5Etfw\">@AGF_Korea</a>) 메인 무대와 니벨아레나 부스에서 김연우 성우와 함께 토크쇼와 사인회 이벤트가 진행됩니다. 김연우 성우가 맡은 캐릭터들의 녹음 에피소드 및 명장면, 명대사 재연과 관객 Q&amp;A 가지 함께해 보세요! <br><br>▫ 메인 무대<br> - 1회차 : 11:00 – 12:00… <a href=\"https://t.co/jq0SJkjiyw\">pic.twitter.com/jq0SJkjiyw</a></p>&mdash; 대원미디어 Official (@daewonmedia_tv) <a href=\"https://x.com/daewonmedia_tv/status/2125494359449829847?ref_src=twsrc%5Etfw\">2026년 11월 25일</a></blockquote>"
+              "<blockquote class=\"twitter-tweet\" data-lang=\"ko\" data-dnt=\"true\"><p lang=\"ko\" dir=\"ltr\">AGF 2026 코스플레이어 이벤트 안내📢<br><br>참여 코스플레이어 일부가 변경되어 새로운 라인업을 안내드립니다. 12/5(토) ‘블루 아카이브’ 리오 역으로는 요나님이 함께합니다!<br><br>12/4(금)~12/5(토) 이틀 동안 AGF 2026(<a href=\"https://x.com/AGF_Korea?ref_src=twsrc%5Etfw\">@AGF_Korea</a>) 메인 무대와 니벨아레나 부스에서 코스어들과 런웨이부터 촬영회까지… <a href=\"https://t.co/ubOI2zRBkF\">pic.twitter.com/ubOI2zRBkF</a></p>&mdash; 대원미디어 Official (@daewonmedia_tv) <a href=\"https://x.com/daewonmedia_tv/status/2125491651561091549?ref_src=twsrc%5Etfw\">2026년 11월 25일</a></blockquote>"
             ],
-            "gifts": []
+            "gifts": [
+              {
+                "url": "https://x.com/daewonmedia_tv/status/2125494362612330869",
+                "kinds": [
+                  "game"
+                ],
+                "summary": "니벨아레나 이벤트존 매일 14~15시 카드 퀴즈 정답 시 경품(부스터 팩 증정 이벤트)",
+                "embed": "<blockquote class=\"twitter-tweet\" data-lang=\"ko\" data-dnt=\"true\"><p lang=\"ko\" dir=\"ltr\">AGF 2026 이벤트 안내📢<br><br>AGF 2026(<a href=\"https://x.com/AGF_Korea?ref_src=twsrc%5Etfw\">@AGF_Korea</a>) 메인 무대와 니벨아레나 부스에서 행사 기간 동안 MC 기무기훈과 함께하는 부스터 팩 증정 이벤트가 진행됩니다! 누구나 참여할 수 있는 카드 퀴즈에 도전하고, 정답을 맞혀 경품도 받아 가세요!<br><br>▫ 이벤트존<br>- 3일간 매일 14:00~15:00<a href=\"https://x.com/hashtag/TCG?src=hash&amp;ref_src=twsrc%5Etfw\">#TCG</a>… <a href=\"https://t.co/Cp44BUxekt\">pic.twitter.com/Cp44BUxekt</a></p>&mdash; 대원미디어 Official (@daewonmedia_tv) <a href=\"https://x.com/daewonmedia_tv/status/2125494362612330869?ref_src=twsrc%5Etfw\">2026년 11월 25일</a></blockquote>"
+              },
+              {
+                "url": "https://x.com/daewonmedia_tv/status/2125123412674961732",
+                "kinds": [
+                  "purchase",
+                  "etc"
+                ],
+                "summary": "니벨아레나 부스 구매 3만원당 스크래치 복권 1매, 100% 당첨 날짜별 경품(당일 유효·소진 시 종료)",
+                "embed": "<blockquote class=\"twitter-tweet\" data-lang=\"ko\" data-dnt=\"true\"><p lang=\"ko\" dir=\"ltr\">AGF 2026 이벤트 안내📢<br><br>AGF 2026(<a href=\"https://x.com/AGF_Korea?ref_src=twsrc%5Etfw\">@AGF_Korea</a>) 니벨아레나 부스에서 행사 기간 동안 복권 이벤트가 열립니다. 긁으면 100% 당첨! 니벨아레나에 참전한 다양한 IP의 신규 서플라이 날짜별 경품을 확인해 보세요!<br><br>▫ 참여 안내<br>- 일시 : 12/4(금)~12/6(일)<br>- 장소 : 니벨아레나 부스<br><br>▫ 참여 방법<br>-… <a href=\"https://t.co/HREQwqteLM\">pic.twitter.com/HREQwqteLM</a></p>&mdash; 대원미디어 Official (@daewonmedia_tv) <a href=\"https://x.com/daewonmedia_tv/status/2125123412674961732?ref_src=twsrc%5Etfw\">2026년 11월 24일</a></blockquote>"
+              },
+              {
+                "url": "https://x.com/daewonmedia_tv/status/2125494359449829847",
+                "kinds": [
+                  "purchase"
+                ],
+                "summary": "12/6 니벨아레나 부스 9만원 이상 구매자 선착순 40명, 김연우 성우 토크쇼·사인회 참여",
+                "embed": "<blockquote class=\"twitter-tweet\" data-lang=\"ko\" data-dnt=\"true\"><p lang=\"ko\" dir=\"ltr\">AGF 2026 이벤트 안내📢<br><br>12/6(일) AGF 2026(<a href=\"https://x.com/AGF_Korea?ref_src=twsrc%5Etfw\">@AGF_Korea</a>) 메인 무대와 니벨아레나 부스에서 김연우 성우와 함께 토크쇼와 사인회 이벤트가 진행됩니다. 김연우 성우가 맡은 캐릭터들의 녹음 에피소드 및 명장면, 명대사 재연과 관객 Q&amp;A 가지 함께해 보세요! <br><br>▫ 메인 무대<br> - 1회차 : 11:00 – 12:00… <a href=\"https://t.co/jq0SJkjiyw\">pic.twitter.com/jq0SJkjiyw</a></p>&mdash; 대원미디어 Official (@daewonmedia_tv) <a href=\"https://x.com/daewonmedia_tv/status/2125494359449829847?ref_src=twsrc%5Etfw\">2026년 11월 25일</a></blockquote>"
+              }
+            ]
           }
         },
         {
@@ -744,13 +773,19 @@
           "code": "C03",
           "x": {
             "handle": "dnc_comics",
-            "picks": [
-              "https://x.com/dnc_comics/status/2124669335469961708"
-            ],
-            "embeds": [
-              "<blockquote class=\"twitter-tweet\" data-lang=\"ko\" data-dnt=\"true\"><p lang=\"ko\" dir=\"ltr\">📢[RT+팔로우] AGF 2026 디앤씨미디어 부스 소개 및 이벤트 안내 ①<br><br>/ᐠ        ᐟ\\<br>(&quot; ◔  ֊ ◔&quot; )<br>┏━O━O━━━━━━━━━━━━━━━━━┓<br><br>🗓️일정 : 2026.12.04 (금) ~ 2025.12.06 (일)<br>🗺️행사장 위치 : 일산 KINTEX 제1전시장 1~5홀<br>📍부스 위치 : C03<br>✨현장에서 만나볼 수 있는 다양한… <a href=\"https://t.co/9riu799jkv\">pic.twitter.com/9riu799jkv</a></p>&mdash; 디앤씨미디어 코믹스 (@dnc_comics) <a href=\"https://x.com/dnc_comics/status/2124669335469961708?ref_src=twsrc%5Etfw\">2026년 11월 23일</a></blockquote>"
-            ],
-            "gifts": []
+            "picks": [],
+            "embeds": [],
+            "gifts": [
+              {
+                "url": "https://x.com/dnc_comics/status/2124669335469961708",
+                "kinds": [
+                  "visit",
+                  "sns"
+                ],
+                "summary": "부스 방문 시 L홀더·1화 미리보기 소책자, 둘이서 버스 SNS 인증샷 시 작가 사인 일러스트 카드",
+                "embed": "<blockquote class=\"twitter-tweet\" data-lang=\"ko\" data-dnt=\"true\"><p lang=\"ko\" dir=\"ltr\">📢[RT+팔로우] AGF 2026 디앤씨미디어 부스 소개 및 이벤트 안내 ①<br><br>/ᐠ        ᐟ\\<br>(&quot; ◔  ֊ ◔&quot; )<br>┏━O━O━━━━━━━━━━━━━━━━━┓<br><br>🗓️일정 : 2026.12.04 (금) ~ 2025.12.06 (일)<br>🗺️행사장 위치 : 일산 KINTEX 제1전시장 1~5홀<br>📍부스 위치 : C03<br>✨현장에서 만나볼 수 있는 다양한… <a href=\"https://t.co/9riu799jkv\">pic.twitter.com/9riu799jkv</a></p>&mdash; 디앤씨미디어 코믹스 (@dnc_comics) <a href=\"https://x.com/dnc_comics/status/2124669335469961708?ref_src=twsrc%5Etfw\">2026년 11월 23일</a></blockquote>"
+              }
+            ]
           }
         }
       ]
@@ -800,9 +835,11 @@
           "x": {
             "handle": "sgstove",
             "picks": [
+              "https://x.com/sgstove/status/2123691960481497367",
               "https://x.com/sgstove/status/2121077035313590714"
             ],
             "embeds": [
+              "<blockquote class=\"twitter-tweet\" data-lang=\"ko\" data-dnt=\"true\"><p lang=\"ko\" dir=\"ltr\">🎪 럽딜 x AGF2026 티켓 이벤트 2차 (앵콜💗)<br>여러분의 뜨거운 성원에 한 번 더!<br>2차 SNS 이벤트를 진행합니다🎊<br>AGF2026에서 구매할 수 있는 한정 굿즈!<br>라인업도 함께 확인해보세요! 🎁<br><br>① SNS 이벤트 당첨되면 AGF 티켓을 받아요!<br>🎁 5명 추첨 이벤트: <a href=\"https://t.co/nKKzG4tnW4\">https://t.co/nKKzG4tnW4</a><br>🗓️ 이벤트 기간:… <a href=\"https://t.co/OWXaZorSwS\">pic.twitter.com/OWXaZorSwS</a></p>&mdash; 스토브 STOVE (@sgstove) <a href=\"https://x.com/sgstove/status/2123691960481497367?ref_src=twsrc%5Etfw\">2026년 11월 20일</a></blockquote>",
               "<blockquote class=\"twitter-tweet\" data-lang=\"ko\" data-dnt=\"true\"><p lang=\"ko\" dir=\"ltr\">💗AGF2026 x 러브 딜리버리💗 (feat. 이벤트💝)<br>주희 애프터 스토리 한정판 패키지 만나러 오세요~!<br>🔗 이벤트 참여 바로가기 <a href=\"https://t.co/LCk4uY0E8j\">https://t.co/LCk4uY0E8j</a><br>💗 게임 출시 전에 찜해두기 <a href=\"https://t.co/QjaTWrGNrn\">https://t.co/QjaTWrGNrn</a><br><br>🎁 SNS 이벤트 참여하면 AGF 티켓 무료 증정!<br>📆 이벤트 기간: 2026.11.13~11.19 (추첨 5명)… <a href=\"https://t.co/jUo5UzL3B0\">pic.twitter.com/jUo5UzL3B0</a></p>&mdash; 스토브 STOVE (@sgstove) <a href=\"https://x.com/sgstove/status/2121077035313590714?ref_src=twsrc%5Etfw\">2026년 11월 13일</a></blockquote>"
             ],
             "gifts": []
@@ -819,9 +856,11 @@
           "x": {
             "handle": "sgstove",
             "picks": [
+              "https://x.com/sgstove/status/2123691960481497367",
               "https://x.com/sgstove/status/2121077035313590714"
             ],
             "embeds": [
+              "<blockquote class=\"twitter-tweet\" data-lang=\"ko\" data-dnt=\"true\"><p lang=\"ko\" dir=\"ltr\">🎪 럽딜 x AGF2026 티켓 이벤트 2차 (앵콜💗)<br>여러분의 뜨거운 성원에 한 번 더!<br>2차 SNS 이벤트를 진행합니다🎊<br>AGF2026에서 구매할 수 있는 한정 굿즈!<br>라인업도 함께 확인해보세요! 🎁<br><br>① SNS 이벤트 당첨되면 AGF 티켓을 받아요!<br>🎁 5명 추첨 이벤트: <a href=\"https://t.co/nKKzG4tnW4\">https://t.co/nKKzG4tnW4</a><br>🗓️ 이벤트 기간:… <a href=\"https://t.co/OWXaZorSwS\">pic.twitter.com/OWXaZorSwS</a></p>&mdash; 스토브 STOVE (@sgstove) <a href=\"https://x.com/sgstove/status/2123691960481497367?ref_src=twsrc%5Etfw\">2026년 11월 20일</a></blockquote>",
               "<blockquote class=\"twitter-tweet\" data-lang=\"ko\" data-dnt=\"true\"><p lang=\"ko\" dir=\"ltr\">💗AGF2026 x 러브 딜리버리💗 (feat. 이벤트💝)<br>주희 애프터 스토리 한정판 패키지 만나러 오세요~!<br>🔗 이벤트 참여 바로가기 <a href=\"https://t.co/LCk4uY0E8j\">https://t.co/LCk4uY0E8j</a><br>💗 게임 출시 전에 찜해두기 <a href=\"https://t.co/QjaTWrGNrn\">https://t.co/QjaTWrGNrn</a><br><br>🎁 SNS 이벤트 참여하면 AGF 티켓 무료 증정!<br>📆 이벤트 기간: 2026.11.13~11.19 (추첨 5명)… <a href=\"https://t.co/jUo5UzL3B0\">pic.twitter.com/jUo5UzL3B0</a></p>&mdash; 스토브 STOVE (@sgstove) <a href=\"https://x.com/sgstove/status/2121077035313590714?ref_src=twsrc%5Etfw\">2026년 11월 13일</a></blockquote>"
             ],
             "gifts": []
@@ -1167,10 +1206,12 @@
           "x": {
             "handle": "BROWNDUST2_KR",
             "picks": [
+              "https://x.com/BROWNDUST2_KR/status/2125832564145631362",
               "https://x.com/BROWNDUST2_KR/status/2123658913665167560",
               "https://x.com/BROWNDUST2_KR/status/2113142357977964854"
             ],
             "embeds": [
+              "<blockquote class=\"twitter-tweet\" data-lang=\"ko\" data-dnt=\"true\"><p lang=\"ko\" dir=\"ltr\">🎇【AGF 2026】 참전 코스어 대공개<br><br>이번 3.5주년을 맞아 등장하는 새 코스튬을 실물로 볼 수 있는 그 시간! <br>우리들만의 크리스마스를 더욱 풍성하고 화려하게 만들어 줄거예요❤<br><br>무대 시간표는 아래의 링크에서!<br>🔗 <a href=\"https://t.co/3akvolrOdx\">https://t.co/3akvolrOdx</a><a href=\"https://x.com/hashtag/%EB%B8%8C%EB%9D%BC%EC%9A%B4%EB%8D%94%EC%8A%A4%ED%8A%B82?src=hash&amp;ref_src=twsrc%5Etfw\">#브라운더스트2</a> <a href=\"https://x.com/hashtag/AGF2026?src=hash&amp;ref_src=twsrc%5Etfw\">#AGF2026</a> <a href=\"https://x.com/hashtag/%EC%BD%94%EC%8A%A4%EC%96%B4?src=hash&amp;ref_src=twsrc%5Etfw\">#코스어</a> <a href=\"https://x.com/hashtag/%ED%96%89%EC%82%AC?src=hash&amp;ref_src=twsrc%5Etfw\">#행사</a> <a href=\"https://x.com/hashtag/%EB%AC%B4%EB%8C%80?src=hash&amp;ref_src=twsrc%5Etfw\">#무대</a> <a href=\"https://t.co/Lx40MR8wc5\">pic.twitter.com/Lx40MR8wc5</a></p>&mdash; 브라운더스트2 공식트위터 (@BROWNDUST2_KR) <a href=\"https://x.com/BROWNDUST2_KR/status/2125832564145631362?ref_src=twsrc%5Etfw\">2026년 11월 26일</a></blockquote>",
               "<blockquote class=\"twitter-tweet\" data-lang=\"ko\" data-dnt=\"true\"><p lang=\"ko\" dir=\"ltr\">🎇【AGF 2026 x 브라운더스트2】 <br><br>브라운더스트2 크리스마스 타운 공개!✨<br>사흘 간 부스와 현장을 빛내줄 출연진까지 확인해 보세요! <br><br>찾아와 주실 또 다른 분들은 누구!?😮<a href=\"https://x.com/hashtag/%EB%B8%8C%EB%9D%BC%EC%9A%B4%EB%8D%94%EC%8A%A4%ED%8A%B82?src=hash&amp;ref_src=twsrc%5Etfw\">#브라운더스트2</a> <a href=\"https://x.com/hashtag/AGF2026?src=hash&amp;ref_src=twsrc%5Etfw\">#AGF2026</a> <a href=\"https://x.com/hashtag/%ED%96%89%EC%82%AC?src=hash&amp;ref_src=twsrc%5Etfw\">#행사</a> <a href=\"https://x.com/hashtag/%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4?src=hash&amp;ref_src=twsrc%5Etfw\">#크리스마스</a> <a href=\"https://x.com/hashtag/%ED%83%80%EC%9A%B4?src=hash&amp;ref_src=twsrc%5Etfw\">#타운</a> <a href=\"https://t.co/nrjMGY8yOC\">pic.twitter.com/nrjMGY8yOC</a></p>&mdash; 브라운더스트2 공식트위터 (@BROWNDUST2_KR) <a href=\"https://x.com/BROWNDUST2_KR/status/2123658913665167560?ref_src=twsrc%5Etfw\">2026년 11월 20일</a></blockquote>",
               "<blockquote class=\"twitter-tweet\" data-lang=\"ko\" data-dnt=\"true\"><p lang=\"ko\" dir=\"ltr\">다가올 겨울! 브라운더스트2가 AGF에 찾아갑니다 🎉<br><br>벌써 3년 연속 AGF 참가!<br>늘 함께해 주시는 마스터분들을 위한 자리를 준비하고 있답니다 🙂<br><br>📆 2026년 12월 04일(금) ~ 12월 06일(일)<br>📍 일산 KINTEX 제1전시장<br><br>다가오는 12월! AGF 행사장에서 만나요💙<a href=\"https://t.co/3t3KkgoRmA\">https://t.co/3t3KkgoRmA</a>…</p>&mdash; 브라운더스트2 공식트위터 (@BROWNDUST2_KR) <a href=\"https://x.com/BROWNDUST2_KR/status/2113142357977964854?ref_src=twsrc%5Etfw\">2026년 10월 22일</a></blockquote>"
             ],
@@ -1460,16 +1501,24 @@
           "x": {
             "handle": "sgstove",
             "picks": [
-              "https://x.com/sgstove/status/2125466822434787379",
               "https://x.com/sgstove/status/2122988829745528991",
               "https://x.com/sgstove/status/2122612673431150971"
             ],
             "embeds": [
-              "<blockquote class=\"twitter-tweet\" data-lang=\"ko\" data-dnt=\"true\"><p lang=\"ko\" dir=\"ltr\">Smilegate x AGF 2026 부스 프로그램 안내 🎪<br>🗓️ 개최 일정 | 2026.12.04(금)~12.06(일)<br>📍 부스 위치 | KINTEX 제1전시장 A11<br><br>코스어 &amp; 성우 무대가 기대된다면 RT🔁<br>럭키드로우 참여하고 싶다면 좋아요💗<br>궁금한 프로그램이 있다면 댓글💬<br><br>카제나 커뮤니티 🪧 <a href=\"https://t.co/XleEy28ZE1\">https://t.co/XleEy28ZE1</a><br>미래시… <a href=\"https://t.co/PE7NSGRbyh\">pic.twitter.com/PE7NSGRbyh</a></p>&mdash; 스토브 STOVE (@sgstove) <a href=\"https://x.com/sgstove/status/2125466822434787379?ref_src=twsrc%5Etfw\">2026년 11월 25일</a></blockquote>",
               "<blockquote class=\"twitter-tweet\" data-lang=\"ko\" data-dnt=\"true\"><p lang=\"ko\" dir=\"ltr\">🎪 AGF2026 x 미래시 코스어 대공개💗<br>👇라인업은 아래 게시물 확인해주세요~!👇<br><br>🗓️ 2026.12.04(금)~12.06(일)<br>📍 KINTEX 제1전시장 A11<br><br>미래시 코스프레 보러 오기 전, 해야 할 3가지!<br>✅ 카메라 렌즈 잘 닦아두기 📸<br>✅ 손 떨림 없도록 심호흡하기 💓<br>✅ 사전 예약하기 <a href=\"https://t.co/MjbbECpwIE\">https://t.co/MjbbECpwIE</a> 💌… <a href=\"https://t.co/X8ykMWcN4n\">https://t.co/X8ykMWcN4n</a></p>&mdash; 스토브 STOVE (@sgstove) <a href=\"https://x.com/sgstove/status/2122988829745528991?ref_src=twsrc%5Etfw\">2026년 11월 18일</a></blockquote>",
               "<blockquote class=\"twitter-tweet\" data-lang=\"ko\" data-dnt=\"true\"><p lang=\"ko\" dir=\"ltr\">🎪 Smilegate x AGF 2026 부스 안내 ✨<br>📍 부스 위치 | KINTEX 제1전시장 A11<br>📅 개최 일정 | 2026.12.04(금)~12.06(일) <br><br>💜카제나💜 보러 오는 퍼스트 여러분,<br>🩷미래시🩷 만나러 오는 의원님들,<br>모두 🎪A11 스마일게이트 부스🎪에서 만나요~!<br><br>카제나 소식 확인하기 💌 <a href=\"https://t.co/dm1ovUaWEW\">https://t.co/dm1ovUaWEW</a>… <a href=\"https://t.co/oMJjJH5nMS\">pic.twitter.com/oMJjJH5nMS</a></p>&mdash; 스토브 STOVE (@sgstove) <a href=\"https://x.com/sgstove/status/2122612673431150971?ref_src=twsrc%5Etfw\">2026년 11월 17일</a></blockquote>"
             ],
             "gifts": [
+              {
+                "url": "https://x.com/sgstove/status/2125466822434787379",
+                "kinds": [
+                  "game",
+                  "stamp",
+                  "sns"
+                ],
+                "summary": "카제나 미션 참여 시 포토카드 팩·스탬프 4개 완성 시 쿠폰·응원봉, 미래시 팔로우·사전예약 시 캔뱃지(선착순)",
+                "embed": "<blockquote class=\"twitter-tweet\" data-lang=\"ko\" data-dnt=\"true\"><p lang=\"ko\" dir=\"ltr\">Smilegate x AGF 2026 부스 프로그램 안내 🎪<br>🗓️ 개최 일정 | 2026.12.04(금)~12.06(일)<br>📍 부스 위치 | KINTEX 제1전시장 A11<br><br>코스어 &amp; 성우 무대가 기대된다면 RT🔁<br>럭키드로우 참여하고 싶다면 좋아요💗<br>궁금한 프로그램이 있다면 댓글💬<br><br>카제나 커뮤니티 🪧 <a href=\"https://t.co/XleEy28ZE1\">https://t.co/XleEy28ZE1</a><br>미래시… <a href=\"https://t.co/PE7NSGRbyh\">pic.twitter.com/PE7NSGRbyh</a></p>&mdash; 스토브 STOVE (@sgstove) <a href=\"https://x.com/sgstove/status/2125466822434787379?ref_src=twsrc%5Etfw\">2026년 11월 25일</a></blockquote>"
+              },
               {
                 "url": "https://x.com/CZN_Official_KR/status/2125034375347913122",
                 "kinds": [
@@ -1530,9 +1579,11 @@
           "x": {
             "handle": "Stacker_TCG",
             "picks": [
+              "https://x.com/Stacker_TCG/status/2125838029499838871",
               "https://x.com/Stacker_TCG/status/2122613913888145668"
             ],
             "embeds": [
+              "<blockquote class=\"twitter-tweet\" data-lang=\"ko\" data-dnt=\"true\"><p lang=\"ko\" dir=\"ltr\">【AGF 판매 제품 안내】<br><br>AGF2026에서 판매할 스태커배틀 제품 리스트를 공개합니다!<br><br>더 풍성하고 따뜻한 <a href=\"https://x.com/AGF_Korea?ref_src=twsrc%5Etfw\">@AGF_Korea</a> 를 위해 특별 할인가로 준비했습니다. (*일부 제품 제외)<br><br>곧이어 공개될 AGF 특별 이벤트도 기대해주세요!<a href=\"https://x.com/hashtag/%EC%8A%A4%ED%83%9C%EC%BB%A4%EB%B0%B0%ED%8B%80?src=hash&amp;ref_src=twsrc%5Etfw\">#스태커배틀</a> <a href=\"https://x.com/hashtag/StackerBattle?src=hash&amp;ref_src=twsrc%5Etfw\">#StackerBattle</a> <a href=\"https://x.com/hashtag/TCG?src=hash&amp;ref_src=twsrc%5Etfw\">#TCG</a> <a href=\"https://x.com/hashtag/AGF2026?src=hash&amp;ref_src=twsrc%5Etfw\">#AGF2026</a> <a href=\"https://t.co/lVf5QhYMMG\">pic.twitter.com/lVf5QhYMMG</a></p>&mdash; Stacker Battle (스태커배틀) (@Stacker_TCG) <a href=\"https://x.com/Stacker_TCG/status/2125838029499838871?ref_src=twsrc%5Etfw\">2026년 11월 26일</a></blockquote>",
               "<blockquote class=\"twitter-tweet\" data-lang=\"ko\" data-dnt=\"true\"><p lang=\"ko\" dir=\"ltr\">【스태커배틀 AGF 참가 안내】<br><br>스태커배틀이 작년에 이어 올해에도 <a href=\"https://x.com/AGF_Korea?ref_src=twsrc%5Etfw\">@AGF_Korea</a> 로 여러분을 찾아갑니다! <br><br>작년보다 풍성해진 스태커배틀 부스를 기대해주세요😊<br><br>판매상품 등 자세한 안내는 추후 공지 통해 전달드리겠습니다.<br><br>곧 만나요!<br><br> <a href=\"https://x.com/hashtag/%EC%8A%A4%ED%83%9C%EC%BB%A4%EB%B0%B0%ED%8B%80?src=hash&amp;ref_src=twsrc%5Etfw\">#스태커배틀</a> <a href=\"https://x.com/hashtag/TCG?src=hash&amp;ref_src=twsrc%5Etfw\">#TCG</a> <a href=\"https://x.com/hashtag/AGF2026?src=hash&amp;ref_src=twsrc%5Etfw\">#AGF2026</a> <a href=\"https://t.co/vahd6wfnnt\">pic.twitter.com/vahd6wfnnt</a></p>&mdash; Stacker Battle (스태커배틀) (@Stacker_TCG) <a href=\"https://x.com/Stacker_TCG/status/2122613913888145668?ref_src=twsrc%5Etfw\">2026년 11월 17일</a></blockquote>"
             ],
             "gifts": []
@@ -1605,14 +1656,22 @@
           "x": {
             "handle": "studio_segno",
             "picks": [
-              "https://x.com/studio_segno/status/2124071529273299348",
               "https://x.com/studio_segno/status/2116455146137977231"
             ],
             "embeds": [
-              "<blockquote class=\"twitter-tweet\" data-lang=\"ko\" data-dnt=\"true\"><p lang=\"ko\" dir=\"ltr\">[스튜디오 세뇨 × AGF 2026] 겨울 상점 부스 이벤트 &amp; 굿즈 안내<br><br>안녕하세요, 스튜디오 세뇨입니다!<br><br>AGF 2026에서 스튜디오 세뇨의 특별한 겨울 상점이 문을 엽니다!<br><br>이번 겨울 상점에서는 스튜디오 세뇨와 <br>소속 아티스트들을 만나보실 수 있으며, <br>부스를 찾아주실 여러분을 위해 다양한 현장… <a href=\"https://t.co/lEvtieKJHO\">pic.twitter.com/lEvtieKJHO</a></p>&mdash; studio segno (@studio_segno) <a href=\"https://x.com/studio_segno/status/2124071529273299348?ref_src=twsrc%5Etfw\">2026년 11월 21일</a></blockquote>",
               "<blockquote class=\"twitter-tweet\" data-lang=\"ko\" data-dnt=\"true\"><p lang=\"ko\" dir=\"ltr\">[스튜디오 세뇨 x AGF 2026] 참가 안내 ❄<br><br>안녕하세요 스튜디오 세뇨입니다!<br>이번 AGF 2026에 스튜디오 세뇨가 참가하게 되었습니다!<br><br>🎟 스튜디오 세뇨 공식 SNS 팔로우 + 본 게시물 <a href=\"https://x.com/hashtag/RT?src=hash&amp;ref_src=twsrc%5Etfw\">#RT</a><br>→ 추첨을 통해 AGF 2026 초대권 증정!!<br><br>버츄얼 아티스트와 함께하는 실시간 소통 이벤트부터<br>선공개 앨범을… <a href=\"https://t.co/b4ZW4f3694\">pic.twitter.com/b4ZW4f3694</a></p>&mdash; studio segno (@studio_segno) <a href=\"https://x.com/studio_segno/status/2116455146137977231?ref_src=twsrc%5Etfw\">2026년 10월 31일</a></blockquote>"
             ],
-            "gifts": []
+            "gifts": [
+              {
+                "url": "https://x.com/studio_segno/status/2124071529273299348",
+                "kinds": [
+                  "sns",
+                  "etc"
+                ],
+                "summary": "아티스트 치지직·유튜브 4채널 팔로우 인증 시 토큰 4개, 토큰 4개로 MD 가챠 1회(인당 1회)",
+                "embed": "<blockquote class=\"twitter-tweet\" data-lang=\"ko\" data-dnt=\"true\"><p lang=\"ko\" dir=\"ltr\">[스튜디오 세뇨 × AGF 2026] 겨울 상점 부스 이벤트 &amp; 굿즈 안내<br><br>안녕하세요, 스튜디오 세뇨입니다!<br><br>AGF 2026에서 스튜디오 세뇨의 특별한 겨울 상점이 문을 엽니다!<br><br>이번 겨울 상점에서는 스튜디오 세뇨와 <br>소속 아티스트들을 만나보실 수 있으며, <br>부스를 찾아주실 여러분을 위해 다양한 현장… <a href=\"https://t.co/lEvtieKJHO\">pic.twitter.com/lEvtieKJHO</a></p>&mdash; studio segno (@studio_segno) <a href=\"https://x.com/studio_segno/status/2124071529273299348?ref_src=twsrc%5Etfw\">2026년 11월 21일</a></blockquote>"
+              }
+            ]
           }
         }
       ]
@@ -1710,13 +1769,13 @@
             "handle": "ASW_ASIA",
             "picks": [
               "https://x.com/ASW_ASIA/status/2125509309039788077",
-              "https://x.com/ASW_ASIA/status/2121078323346645145",
-              "https://x.com/ASW_ASIA/status/2121078331168973058"
+              "https://x.com/ASW_ASIA/status/2121078331168973058",
+              "https://x.com/ASW_ASIA/status/2121078323346645145"
             ],
             "embeds": [
               "<blockquote class=\"twitter-tweet\" data-lang=\"ko\" data-dnt=\"true\"><p lang=\"ko\" dir=\"ltr\">📢AGF 2026 무료 입장권 증정 이벤트<br>올해 AGF 2026에도 아크시스템웍스 아시아가 함께합니다!<br><br>해시태그 <a href=\"https://x.com/hashtag/%EC%95%84%ED%81%AC%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9B%8D%EC%8A%A4%EC%95%84%EC%8B%9C%EC%95%84?src=hash&amp;ref_src=twsrc%5Etfw\">#아크시스템웍스아시아</a> <a href=\"https://x.com/hashtag/AGF2026?src=hash&amp;ref_src=twsrc%5Etfw\">#AGF2026</a> <a href=\"https://x.com/hashtag/FateEX_Record?src=hash&amp;ref_src=twsrc%5Etfw\">#FateEX_Record</a> 와 함께 인용 리포스트를 남겨주시면, 추첨을 통해 10분께 AGF 2026 무료 입장권(1일)을 증정!🎟️<br><br>아크시스템웍스 아시아 부스(A07)에서 만나요! <a href=\"https://t.co/akZ5LXQkpC\">https://t.co/akZ5LXQkpC</a> <a href=\"https://t.co/J3Hn0KAetn\">pic.twitter.com/J3Hn0KAetn</a></p>&mdash; 아크시스템웍스 아시아 (@ASW_ASIA) <a href=\"https://x.com/ASW_ASIA/status/2125509309039788077?ref_src=twsrc%5Etfw\">2026년 11월 25일</a></blockquote>",
-              "<blockquote class=\"twitter-tweet\" data-lang=\"ko\" data-dnt=\"true\"><p lang=\"ko\" dir=\"ltr\"><a href=\"https://x.com/hashtag/AGF2026?src=hash&amp;ref_src=twsrc%5Etfw\">#AGF2026</a> <a href=\"https://x.com/hashtag/%EC%95%84%ED%81%AC%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9B%8D%EC%8A%A4%EC%95%84%EC%8B%9C%EC%95%84?src=hash&amp;ref_src=twsrc%5Etfw\">#아크시스템웍스아시아</a><br><br>올해 AGF 2026에<br>아크시스템웍스 아시아가 출전 결정!<br><br>🎮출전 타이틀<br>1) Fate/EXTRA Record<br>2) 월희 -A piece of blue glass moon-<br>3) 마법사의 밤<br>4) 페이트/스테이 나이트 REMASTERED<br>5) 페이트/할로우 아타락시아 REMASTERED <a href=\"https://t.co/ahle4WEWNP\">pic.twitter.com/ahle4WEWNP</a></p>&mdash; 아크시스템웍스 아시아 (@ASW_ASIA) <a href=\"https://x.com/ASW_ASIA/status/2121078323346645145?ref_src=twsrc%5Etfw\">2026년 11월 13일</a></blockquote>",
-              "<blockquote class=\"twitter-tweet\" data-lang=\"ko\" data-dnt=\"true\"><p lang=\"ko\" dir=\"ltr\"><a href=\"https://x.com/hashtag/AGF2026?src=hash&amp;ref_src=twsrc%5Etfw\">#AGF2026</a> <a href=\"https://x.com/hashtag/%EC%95%84%ED%81%AC%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9B%8D%EC%8A%A4%EC%95%84%EC%8B%9C%EC%95%84?src=hash&amp;ref_src=twsrc%5Etfw\">#아크시스템웍스아시아</a><br><br>부스 내 현장 이벤트 및 행사에 대한 내용은 추후 공개될 예정이오니, 여러분의 많은 관심 부탁드립니다!<a href=\"https://x.com/hashtag/FateEX_Record?src=hash&amp;ref_src=twsrc%5Etfw\">#FateEX_Record</a> <a href=\"https://x.com/hashtag/%EC%9B%94%ED%9D%AC?src=hash&amp;ref_src=twsrc%5Etfw\">#월희</a> <a href=\"https://x.com/hashtag/%EB%A7%88%EB%B2%95%EC%82%AC%EC%9D%98%EB%B0%A4?src=hash&amp;ref_src=twsrc%5Etfw\">#마법사의밤</a> <a href=\"https://x.com/hashtag/%ED%8E%98%EC%9D%B4%ED%8A%B8?src=hash&amp;ref_src=twsrc%5Etfw\">#페이트</a> <a href=\"https://t.co/hvGHxLQ0cI\">pic.twitter.com/hvGHxLQ0cI</a></p>&mdash; 아크시스템웍스 아시아 (@ASW_ASIA) <a href=\"https://x.com/ASW_ASIA/status/2121078331168973058?ref_src=twsrc%5Etfw\">2026년 11월 13일</a></blockquote>"
+              "<blockquote class=\"twitter-tweet\" data-lang=\"ko\" data-dnt=\"true\"><p lang=\"ko\" dir=\"ltr\"><a href=\"https://x.com/hashtag/AGF2026?src=hash&amp;ref_src=twsrc%5Etfw\">#AGF2026</a> <a href=\"https://x.com/hashtag/%EC%95%84%ED%81%AC%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9B%8D%EC%8A%A4%EC%95%84%EC%8B%9C%EC%95%84?src=hash&amp;ref_src=twsrc%5Etfw\">#아크시스템웍스아시아</a><br><br>부스 내 현장 이벤트 및 행사에 대한 내용은 추후 공개될 예정이오니, 여러분의 많은 관심 부탁드립니다!<a href=\"https://x.com/hashtag/FateEX_Record?src=hash&amp;ref_src=twsrc%5Etfw\">#FateEX_Record</a> <a href=\"https://x.com/hashtag/%EC%9B%94%ED%9D%AC?src=hash&amp;ref_src=twsrc%5Etfw\">#월희</a> <a href=\"https://x.com/hashtag/%EB%A7%88%EB%B2%95%EC%82%AC%EC%9D%98%EB%B0%A4?src=hash&amp;ref_src=twsrc%5Etfw\">#마법사의밤</a> <a href=\"https://x.com/hashtag/%ED%8E%98%EC%9D%B4%ED%8A%B8?src=hash&amp;ref_src=twsrc%5Etfw\">#페이트</a> <a href=\"https://t.co/hvGHxLQ0cI\">pic.twitter.com/hvGHxLQ0cI</a></p>&mdash; 아크시스템웍스 아시아 (@ASW_ASIA) <a href=\"https://x.com/ASW_ASIA/status/2121078331168973058?ref_src=twsrc%5Etfw\">2026년 11월 13일</a></blockquote>",
+              "<blockquote class=\"twitter-tweet\" data-lang=\"ko\" data-dnt=\"true\"><p lang=\"ko\" dir=\"ltr\"><a href=\"https://x.com/hashtag/AGF2026?src=hash&amp;ref_src=twsrc%5Etfw\">#AGF2026</a> <a href=\"https://x.com/hashtag/%EC%95%84%ED%81%AC%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9B%8D%EC%8A%A4%EC%95%84%EC%8B%9C%EC%95%84?src=hash&amp;ref_src=twsrc%5Etfw\">#아크시스템웍스아시아</a><br><br>올해 AGF 2026에<br>아크시스템웍스 아시아가 출전 결정!<br><br>🎮출전 타이틀<br>1) Fate/EXTRA Record<br>2) 월희 -A piece of blue glass moon-<br>3) 마법사의 밤<br>4) 페이트/스테이 나이트 REMASTERED<br>5) 페이트/할로우 아타락시아 REMASTERED <a href=\"https://t.co/ahle4WEWNP\">pic.twitter.com/ahle4WEWNP</a></p>&mdash; 아크시스템웍스 아시아 (@ASW_ASIA) <a href=\"https://x.com/ASW_ASIA/status/2121078323346645145?ref_src=twsrc%5Etfw\">2026년 11월 13일</a></blockquote>"
             ],
             "gifts": []
           }
@@ -2442,14 +2501,14 @@
           "x": {
             "handle": "_LAVANG_",
             "picks": [
+              "https://x.com/_LAVANG_/status/2125797127725232441",
               "https://x.com/_LAVANG_/status/2123740995288539326",
-              "https://x.com/_LAVANG_/status/2119954075160871295",
-              "https://x.com/_LAVANG_/status/2110225138755252476"
+              "https://x.com/_LAVANG_/status/2119954075160871295"
             ],
             "embeds": [
+              "<blockquote class=\"twitter-tweet\" data-lang=\"ko\" data-dnt=\"true\"><p lang=\"ko\" dir=\"ltr\">선배님 드디어 공개되는 라방 TCG 스타터덱!<br>AGF2026에서 먼저 만나 보실 수 있어요😘<a href=\"https://x.com/hashtag/SCON?src=hash&amp;ref_src=twsrc%5Etfw\">#SCON</a> <a href=\"https://x.com/hashtag/LAVANG?src=hash&amp;ref_src=twsrc%5Etfw\">#LAVANG</a> <a href=\"https://x.com/hashtag/AGF2026?src=hash&amp;ref_src=twsrc%5Etfw\">#AGF2026</a> <a href=\"https://x.com/hashtag/TCG?src=hash&amp;ref_src=twsrc%5Etfw\">#TCG</a> <a href=\"https://t.co/ejepvgq8Y9\">pic.twitter.com/ejepvgq8Y9</a></p>&mdash; 라방(LAVANG) (@_LAVANG_) <a href=\"https://x.com/_LAVANG_/status/2125797127725232441?ref_src=twsrc%5Etfw\">2026년 11월 26일</a></blockquote>",
               "<blockquote class=\"twitter-tweet\" data-lang=\"ko\" data-dnt=\"true\"><p lang=\"ko\" dir=\"ltr\">🥰라방 홍보 4컷 만화!🥰<br>      6화 스콘 AGF 출격!<a href=\"https://x.com/hashtag/%EC%8A%A4%EC%BD%98?src=hash&amp;ref_src=twsrc%5Etfw\">#스콘</a> <a href=\"https://x.com/hashtag/%EB%9D%BC%EB%B0%A9?src=hash&amp;ref_src=twsrc%5Etfw\">#라방</a> <a href=\"https://x.com/hashtag/AGF2026?src=hash&amp;ref_src=twsrc%5Etfw\">#AGF2026</a> <a href=\"https://x.com/hashtag/SCON?src=hash&amp;ref_src=twsrc%5Etfw\">#SCON</a> <a href=\"https://x.com/hashtag/TCG?src=hash&amp;ref_src=twsrc%5Etfw\">#TCG</a> <a href=\"https://t.co/I3RXsmyqDl\">pic.twitter.com/I3RXsmyqDl</a></p>&mdash; 라방(LAVANG) (@_LAVANG_) <a href=\"https://x.com/_LAVANG_/status/2123740995288539326?ref_src=twsrc%5Etfw\">2026년 11월 20일</a></blockquote>",
-              "<blockquote class=\"twitter-tweet\" data-lang=\"ko\" data-dnt=\"true\"><p lang=\"ko\" dir=\"ltr\">선배님!!🥰 <br>저희 스콘의 많은 크리에이터 분들이<br>선배님을 뵙기를 고대하고 있어요!<br>와 주실 꺼죠~~!?😘<a href=\"https://x.com/hashtag/%EC%8A%A4%EC%BD%98?src=hash&amp;ref_src=twsrc%5Etfw\">#스콘</a> <a href=\"https://x.com/hashtag/AGF2026?src=hash&amp;ref_src=twsrc%5Etfw\">#AGF2026</a> <a href=\"https://x.com/hashtag/SCON?src=hash&amp;ref_src=twsrc%5Etfw\">#SCON</a> <a href=\"https://t.co/u3nb4PKhGy\">https://t.co/u3nb4PKhGy</a></p>&mdash; 라방(LAVANG) (@_LAVANG_) <a href=\"https://x.com/_LAVANG_/status/2119954075160871295?ref_src=twsrc%5Etfw\">2026년 11월 10일</a></blockquote>",
-              "<blockquote class=\"twitter-tweet\" data-lang=\"ko\" data-dnt=\"true\"><p lang=\"ko\" dir=\"ltr\">선배님!! SCON X 에서 <br>AGF 2026 예매 인증 EVENT! 를 진행하고 있어요!<br>치킨과 햄버거를 대표님 돈으로 (앗!?) 받아보실 수 있는 기회!!<br>놓치지 마세요!!😋<a href=\"https://x.com/hashtag/SCON?src=hash&amp;ref_src=twsrc%5Etfw\">#SCON</a> <a href=\"https://x.com/hashtag/AGF2026?src=hash&amp;ref_src=twsrc%5Etfw\">#AGF2026</a> <a href=\"https://x.com/hashtag/EVENT?src=hash&amp;ref_src=twsrc%5Etfw\">#EVENT</a> <a href=\"https://t.co/uWaEXFQoQ3\">https://t.co/uWaEXFQoQ3</a></p>&mdash; 라방(LAVANG) (@_LAVANG_) <a href=\"https://x.com/_LAVANG_/status/2110225138755252476?ref_src=twsrc%5Etfw\">2026년 10월 14일</a></blockquote>"
+              "<blockquote class=\"twitter-tweet\" data-lang=\"ko\" data-dnt=\"true\"><p lang=\"ko\" dir=\"ltr\">선배님!!🥰 <br>저희 스콘의 많은 크리에이터 분들이<br>선배님을 뵙기를 고대하고 있어요!<br>와 주실 꺼죠~~!?😘<a href=\"https://x.com/hashtag/%EC%8A%A4%EC%BD%98?src=hash&amp;ref_src=twsrc%5Etfw\">#스콘</a> <a href=\"https://x.com/hashtag/AGF2026?src=hash&amp;ref_src=twsrc%5Etfw\">#AGF2026</a> <a href=\"https://x.com/hashtag/SCON?src=hash&amp;ref_src=twsrc%5Etfw\">#SCON</a> <a href=\"https://t.co/u3nb4PKhGy\">https://t.co/u3nb4PKhGy</a></p>&mdash; 라방(LAVANG) (@_LAVANG_) <a href=\"https://x.com/_LAVANG_/status/2119954075160871295?ref_src=twsrc%5Etfw\">2026년 11월 10일</a></blockquote>"
             ],
             "gifts": []
           }
@@ -2719,10 +2778,12 @@
           "x": {
             "handle": "GNFTOYZ",
             "picks": [
+              "https://x.com/GNFTOYZ/status/2125820348365160933",
               "https://x.com/GNFTOYZ/status/2125514878672896289",
               "https://x.com/GNFTOYZ/status/2122996805260701792"
             ],
             "embeds": [
+              "<blockquote class=\"twitter-tweet\" data-lang=\"ko\" data-dnt=\"true\"><p lang=\"ko\" dir=\"ltr\">GNFTOYZ 신상 굿즈 공개!✨<br>[승리의 여신: 니케 DORO의 몽글몽글 가습기]💦<br>건조한 내 공간을 촉촉하게 바꿔줄 귀여운 DORO 가습기는<br>AGF 2026에서 첫 판매됩니다!<a href=\"https://x.com/hashtag/AGF2026?src=hash&amp;ref_src=twsrc%5Etfw\">#AGF2026</a> <a href=\"https://x.com/hashtag/NIKKE?src=hash&amp;ref_src=twsrc%5Etfw\">#NIKKE</a> <a href=\"https://x.com/hashtag/DORO?src=hash&amp;ref_src=twsrc%5Etfw\">#DORO</a> <a href=\"https://t.co/pKUiZFk3ji\">pic.twitter.com/pKUiZFk3ji</a></p>&mdash; GNFTOYZ (@GNFTOYZ) <a href=\"https://x.com/GNFTOYZ/status/2125820348365160933?ref_src=twsrc%5Etfw\">2026년 11월 26일</a></blockquote>",
               "<blockquote class=\"twitter-tweet\" data-lang=\"ko\" data-dnt=\"true\"><p lang=\"ko\" dir=\"ltr\">📢 AGF2026 _ GNFTOYZ&amp;솜꼬리 부스안내<br><br>📍 2026.12.04(금)-2026.12.06(일)<br>📍일산 KINTEX 제1전시장 1홀 C25<br>GNFTOYZ&amp;솜꼬리 부스에서는<br>다양한 신상 굿즈들을 만나보실 수 있습니다.<br><br>순차적으로 공개될 신제품들도 많은 관심 부탁드립니다! <br>AGF 전시장에서 만나요!<a href=\"https://x.com/hashtag/GNFTOYZ?src=hash&amp;ref_src=twsrc%5Etfw\">#GNFTOYZ</a> <a href=\"https://x.com/hashtag/%EC%86%9C%EA%BC%AC%EB%A6%AC?src=hash&amp;ref_src=twsrc%5Etfw\">#솜꼬리</a> <a href=\"https://x.com/hashtag/AGF2026?src=hash&amp;ref_src=twsrc%5Etfw\">#AGF2026</a> <a href=\"https://t.co/nXSaPRL77V\">pic.twitter.com/nXSaPRL77V</a></p>&mdash; GNFTOYZ (@GNFTOYZ) <a href=\"https://x.com/GNFTOYZ/status/2125514878672896289?ref_src=twsrc%5Etfw\">2026년 11월 25일</a></blockquote>",
               "<blockquote class=\"twitter-tweet\" data-lang=\"ko\" data-dnt=\"true\"><p lang=\"ko\" dir=\"ltr\">【GNFTOYZ &amp; 솜꼬리 in AGF 2026】<br><br>AGF 2026 참가 안내<br><br>🎁 GNFTOYZ &amp; 솜꼬리 부스에서,<br>&lt;승리의 여신: 니케&gt; 공식 라이센스 굿즈들을<br>다가오는 12월, AGF 2026 에서 선보일 예정입니다!<br><br>📢자세한 부스 소식은 추후 전해드릴게요!<br><br>📌 부스 위치 : 일산 킨텍스 제1전시장 / 1홀 / C25 <br><br>📅 행사 기간… <a href=\"https://t.co/HvUQbrj1lR\">pic.twitter.com/HvUQbrj1lR</a></p>&mdash; GNFTOYZ (@GNFTOYZ) <a href=\"https://x.com/GNFTOYZ/status/2122996805260701792?ref_src=twsrc%5Etfw\">2026년 11월 18일</a></blockquote>"
             ],
